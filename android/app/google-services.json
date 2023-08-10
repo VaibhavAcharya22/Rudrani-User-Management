@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "55796393887",
+    "project_id": "rudrani-98d8d",
+    "storage_bucket": "rudrani-98d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55796393887:android:6338f741f81dd2a76dffaa",
+        "android_client_info": {
+          "package_name": "com.rudrani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55796393887-i6in51i76hvhiu8s499omfh14srk3jro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALWgdnVdMvnnJqDc0dRJdxFqTMU9jVDMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55796393887-i6in51i76hvhiu8s499omfh14srk3jro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "55796393887-clm4bkg0b6s3si402mjk7jsfidil48ar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Rudrani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,246 @@
+{
+  "loader": {
+    "title": "Loading...."
+  },
+  "SplashScreen": {
+    "appName": "Rudrani",
+    "desc": "User Management Application"
+  },
+  "welcomeScreen": {
+    "title": "Welcome",
+    "welcomeDesc": "Welcome to Rudrani User Management! effortlessly manage users, permissions, and data with our powerful mobile app. Let's begin !",
+    "loginBtnTitle": "SIGN IN",
+    "signUpBtnTitle": "CREATE AN ACCOUNT"
+  },
+  "signUpScreen": {
+    "title": "SIGN UP",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "createAccount": "Create \nAccount",
+    "emailPlaceholder": "Your email",
+    "passwordPlaceholder": "Your password",
+    "confirmPasswordPlaceholder": "Your confirm password",
+    "signUpBtnTitle": "CREATE AN ACCOUNT",
+    "info": "Password should contain exact 8 characters",
+    "alreadyHaveAccount": "Already Have Account?"
+  },
+  "personalDataScreen": {
+    "title": "PERSONAL DATA",
+    "firstNameLabel": "First Name",
+    "lastNameLabel": "Last Name",
+    "mobileNumberLabel": "Mobile Number",
+    "cityLabel": "City",
+    "firstNamePlaceholder": "Your first name",
+    "lastNamePlaceholder": "Your last name",
+    "mobileNumberPlaceholder": "Your mobile number",
+    "cityPlaceholder": "Your city",
+    "nextBtnTitle": "NEXT"
+  },
+  "loginScreen": {
+    "title": "SIGN IN",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "emailPlaceholder": "Your email",
+    "passwordPlaceholder": "Your password",
+    "loginBtnTitle": "SIGN IN",
+    "info": "Password should contain exact 8 characters",
+    "dontHaveAccount": "Don't Have Account?"
+  },
+  "drawer": {
+    "developerName": "@Developed by: Simform.com",
+    "sampleUserName": "Vaibhav Acharya",
+    "sampleEmail": "acharyavkki@gmail.com",
+    "homeTitle": "Home",
+    "profileTitle": "Profile",
+    "versionNumberLabel": "v1.0.0",
+    "settingsTitle": "Settings",
+    "changePassword": "Change Password",
+    "changeTheme": "Change Theme"
+  },
+  "tabBar": {
+    "videoScreenTitle": "Video",
+    "createUserTitle": "Add User",
+    "profileTitle": "Profile"
+  },
+  "listEmptyComponent": {
+    "btnTitle": "Shop Now"
+  },
+  "homeScreen": {
+    "title": "Home",
+    "searchBtnTitle": "Search",
+    "searchPlaceholder": "Search"
+  },
+  "userDetails": {
+    "userDetailsTitle": "User Details",
+    "firstNameLabel": "First Name:",
+    "lastNameLabel": "Last Name:",
+    "emailLabel": "Email:",
+    "testFirstName": "Vaibhav",
+    "testLastName": "Acharya",
+    "testEmail": "acharyavkki@gmail.com",
+    "prevBtnTitle": "PREV",
+    "nextBtnTitle": "NEXT"
+  },
+  "createUser": {
+    "addButtonTitle": "ADD",
+    "successTitle": "Success",
+    "userAddedDesc": "User added successfully"
+  },
+  "videoScreen": {
+    "videoPlayerTitle": "Video Player",
+    "viewsTitle": "Lakh Views",
+    "disclaimer": "Disclaimer"
+  },
+  "profileScreen": {
+    "firstNameLabel": "First Name",
+    "lastNameLabel": "Last Name",
+    "emailLabel": "Email",
+    "mobileNumberLabel": "Mobile Number",
+    "cityLabel": "City",
+    "firstNamePlaceholder": "Your first name",
+    "lastNamePlaceholder": "Your last name",
+    "emailPlaceholder": "Your email",
+    "mobileNumberPlaceholder": "Your mobile number",
+    "cityPlaceholder": "Your city",
+    "editBtnTitle": "EDIT",
+    "updateProfileTitle": "Update Profile",
+    "updateBtnTitle": "UPDATE"
+  },
+  "settingsScreen": {
+    "themeCard": {
+      "themeTitle": "Theme",
+      "changeThemeTitle": "Change Theme",
+      "lightTitle": "Light",
+      "darkTitle": "Dark",
+      "systemDefaultTitle": "System Default"
+    },
+    "legalCard": {
+      "legalTitle": "Legal",
+      "termsConditionsTitle": "Terms & Conditions",
+      "privacyPolicyTitle": "Privacy Policy"
+    },
+    "accountCard": {
+      "accountTitle": "Account",
+      "changePasswordTitle": "Change Password",
+      "logoutTitle": "Logout"
+    },
+    "changePassword": {
+      "changePasswordTitle": "Change Password",
+      "currentPasswordTitle": "Current Password",
+      "newPasswordTitle": "New Password",
+      "confirmPasswordTitle": "Confirm Password",
+      "currentPasswordPlaceholder": "Your current password",
+      "newPasswordPlaceholder": "Your new password",
+      "confirmPasswordPlaceholder": "Your new password",
+      "changeBtnTitle": "CHANGE"
+    }
+  },
+  "notificationScreen": {
+    "notificationTitle": "Notifications",
+    "noNotificationsPresentDesc": "You haven't any notifications."
+  },
+  "uploadOptions": {
+    "gallery": "Gallery",
+    "camera": "Camera"
+  },
+  "search": {
+    "searchResults": "Search Results"
+  },
+  "logout": {
+    "title": "Logout"
+  },
+  "permissions": {
+    "featureNotAvailableAlert": {
+      "title": "Feature not available",
+      "desc": "This feature is not available (on this device / in this context)"
+    },
+    "permissionBlockedAlert": {
+      "title": "Access Denied",
+      "desc": "Permission is blocked. you need to give it manually",
+      "positiveBtnText": "Open Settings"
+    },
+    "errorPermissionChecking": {
+      "title": "Error",
+      "desc": "Error checking permission"
+    }
+  },
+  "rupeeSymbol": "₹",
+  "noItemsPresentTitle": "No Items Present.",
+  "yupError": {
+    "signUpError": {
+      "requiredFirstNameError": "First name cannot be empty",
+      "invalidFirstName": "First name contains only characters",
+      "requiredLastNameError": "Last name cannot be empty",
+      "invalidLastName": "Last name contains only characters",
+      "requiredCityError": "City cannot be empty",
+      "invalidCity": "City contains only characters",
+      "minFullNameError": "Minimum 2 characters are required",
+      "maxFullNameError": "Maximum 25 characters are required",
+      "requiredMobileNumberError": "Mobile number cannot be empty",
+      "mobileNumberError": "Invalid mobile number! Exact 10 digits are required",
+      "onlyNumberError": "only numbers are allowed",
+      "requiredEmailError": "Email cannot be empty",
+      "requiredPasswordError": "Password cannot be empty",
+      "requiredConfirmPasswordError": "Confirm Password cannot be empty",
+      "invalidEmailError": "Invalid Email",
+      "minPasswordError": "Minimum 8 characters are required",
+      "maxPasswordError": "Maximum 16 characters are allowed",
+      "confirmPasswordError": "Password & confirm password does not match"
+    },
+    "loginError": {
+      "requiredEmailError": "Email cannot be empty",
+      "requiredPasswordError": "Password cannot be empty",
+      "invalidEmailError": "Invalid Email",
+      "minPasswordError": "Minimum 8 characters are required",
+      "maxPasswordError": "Maximum 16 characters are allowed"
+    }
+  },
+  "unexpectedError": {
+    "title": "Unexpected Error",
+    "desc": "Unexpected error occurred during camera calling"
+  },
+  "yourOrders": "Your Orders",
+  "yes": "Yes",
+  "cancel": "Cancel",
+  "ok": "Ok",
+  "updateProfileAlert": {
+    "title": "Updated Profile",
+    "desc": "Profile update successfully you need to login again."
+  },
+  "signUpAlert": {
+    "title": "Already registered",
+    "desc": "Email you entered is already registered"
+  },
+  "userNotFoundAlert": {
+    "title": "User not found",
+    "desc": "You need to Register First"
+  },
+  "wrongCurrentPasswordAlert": {
+    "title": "Wrong Password",
+    "desc": "Your current password is incorrect"
+  },
+  "changePasswordAlert": {
+    "title": "Success",
+    "desc": "Your password is changed successfully. Now you need to login using your new password."
+  },
+  "wrongDetailsAlert": {
+    "title": "Wrong Details",
+    "desc": "Invalid email & password"
+  },
+  "uploadImageAlert": {
+    "title": "Image Upload",
+    "desc": "Please upload user image"
+  },
+  "logoutAlert": {
+    "title": "Are you sure you want to logout?",
+    "desc": ""
+  },
+  "alertErrors": {
+    "loginDataStoreError": "Cannot store login data"
+  },
+  "apiCallError": {
+    "title": "Error",
+    "desc": "could not get data from API."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "poster": "https://i.ytimg.com/vi/vjy8EqBNHbI/maxresdefault.jpg",
+      "title": "What Car Can You Get For A Grand",
+      "duration": "09:27",
+      "views": 53,
+      "uploadedOn": "2 years ago",
+      "uploadedBy": "DRJ Records",
+      "uploadYear": 2021,
+      "uploadDate": "22 Jan",
+      "disclaimer": "This video is for entertainment purposes only. Please note that the information provided may not be up to date or accurate. Always consult a professional for advice. Watch at your own risk.",
+      "videoTags": ["car", "budget", "automotive"]
+    },
+    {
+      "id": 2,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "poster": "https://c4.wallpaperflare.com/wallpaper/635/849/89/nfs-need-for-speed-the-run-road-wallpaper-preview.jpg",
+      "title": "We Are Going On Bull run",
+      "duration": "00:47",
+      "views": 47,
+      "uploadedOn": "6 months ago",
+      "uploadedBy": "Curiously Education",
+      "uploadYear": 2022,
+      "uploadDate": "17 December",
+      "disclaimer": "The stunts performed in this video were done by professionals. Do not attempt them yourself. The creators and performers of this video are not responsible for any injuries or damages that may occur as a result of trying to replicate the stunts shown.",
+      "videoTags": ["bull run", "adventure", "travel"]
+    },
+    {
+      "id": 3,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "poster": "https://chromefans.co/wp-content/uploads/2022/09/netflix-chromecast-feat.jpg",
+      "title": "For Bigger Meltdowns",
+      "duration": "00:15",
+      "views": 21,
+      "uploadedOn": "9 months ago",
+      "uploadedBy": "FOX TV",
+      "uploadYear": 2022,
+      "uploadDate": "14 Sept",
+      "disclaimer": "This video contains intense scenes that may not be suitable for all audiences. Viewer discretion is advised. The actions and behaviors portrayed in this video are fictional and should not be imitated.",
+      "videoTags": ["meltdown", "explosion", "action"]
+    },
+    {
+      "id": 4,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "poster": "https://www.davidrevoy.com/data/images/blog/2012/09/tears-of-steel/vignette.jpg",
+      "title": "Tears of Steel",
+      "duration": "12:14",
+      "views": 18,
+      "uploadedOn": "3 weeks ago",
+      "uploadedBy": "NH World",
+      "uploadYear": 2023,
+      "uploadDate": "24 May",
+      "disclaimer": "This video is a short film created by Blender Foundation. All rights reserved. Any unauthorized reproduction, redistribution, or modification of this video is strictly prohibited.",
+      "videoTags": ["science fiction", "short film", "visual effects"]
+    },
+    {
+      "id": 5,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "poster": "https://landoftales.com/image/3460/Sintel-Cover.jpg",
+      "title": "Sintel",
+      "duration": "14:47",
+      "views": 72,
+      "uploadedOn": "5 years ago",
+      "uploadedBy": "The Geek Monk",
+      "uploadYear": 2018,
+      "uploadDate": "14 June",
+      "disclaimer": "This video is an open-source animated short film created by the Blender Institute. You are free to download, distribute, and modify this video under the terms of the Creative Commons Attribution License.",
+      "videoTags": ["animation", "fantasy", "dragon"]
+    },
+    {
+      "id": 6,
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
+      "title": "Big Buck Bunny",
+      "duration": "00:10",
+      "views": 99,
+      "uploadedOn": "1 year ago",
+      "uploadedBy": "RDC Clips",
+      "uploadYear": 2022,
+      "uploadDate": "14 June",
+      "disclaimer": "This video is licensed under the Creative Commons Attribution 3.0 license. You are free to share and adapt this video for any purpose, even commercially, as long as you provide appropriate credit.",
+      "videoTags": ["comedy", "animation", "rabbit"]
+    }
+  ]
+}
